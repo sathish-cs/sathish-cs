@@ -3,7 +3,6 @@
 - I'm a DevOps Engineer. As a Devops Engineer I enjoy to work on multiple cloud and automation tools and always make things to make difference. 
 - I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. 
 
-#- 🌱 I’m currently learning 
 
 
 <!---
